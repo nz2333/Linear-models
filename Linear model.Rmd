@@ -2,7 +2,7 @@
 title: "Linear model"
 author: "nz2333"
 date: "12/3/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r}
